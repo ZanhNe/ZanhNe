@@ -32,12 +32,13 @@
 ## 📫 Connect with Me
 
 - GitHub: 🧑‍💻 *Right here where you're reading this*
-- Email: ✉️ *(Feel free to insert your contact email here if you want)*
-
+- Email: ✉️ *baodoanh1102004@gmail.com*
+- Fun: call me Zanh 😆
 ---
 
 > 📝 *"I'm not a pro developer — just someone trying to get better every single day."*
 
 ---
+
 
 <p align="center">✨ Thanks for visiting my GitHub profile! ✨</p>
