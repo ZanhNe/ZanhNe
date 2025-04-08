@@ -15,8 +15,8 @@
 
 - 🤖 Fascinated by **Generative AI (GenAI)** and its real-world applications
 - 🌐 Interested in becoming a **Fullstack Developer**
-  - 💻 **Backend**: My main focus — I enjoy working with backend tools and systems
-  - 🖥️ **Frontend**: I know the **basics well enough to use**, but I'm not specialized
+  - 💻 **Backend**: My main focus — I enjoy working with backend tools and systems (like *Flask, Spring, Express*) 
+  - 🖥️ **Frontend**: I know the **basics well enough to use**, but I'm not specialized (just *HTML, CSS, Core JS and ReactJS*)
 - 🛠️ I have **experience integrating GenAI** into my own projects beyond traditional backend work
 
 ---
